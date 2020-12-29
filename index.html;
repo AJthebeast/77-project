@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>project 77
+        </title>  
+    </head>       
+        <body>
+<h1>project on conole</h1>
+<h2>write about visual studios and how to set it up</h2>
+<h3>write about console screen.and why it is use.and how to open conole screen and how to print anything on to the console
+         </body>
+</html>
+<script>
+    console.log("console screen");
+    var my first console project="my first console project";
+     console.log("console screen");
+    var ranborkapoor="ranborkapoor";
+     console.log("console screen");
+    var 15="15";
+     console.log("console screen");
+    var 5="5";
+     console.log("console screen");
+    var 50="50";
+     console.log("console screen");
+    var 2="2";
+</script>
